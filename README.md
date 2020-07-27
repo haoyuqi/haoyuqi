@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 - 🔭 I’m currently living on Beijing
 - 🌱 I’m currently learning Golang
-- 💬 My blog [haoyuqi](https://segmentfault.com/u/haoyq/articles)
+- 💬 [My blog](https://segmentfault.com/u/haoyq/articles)
 
 ### Languages and Tools
 
